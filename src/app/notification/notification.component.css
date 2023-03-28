@@ -2,4 +2,10 @@ div{
     font-size: large;
     color:brown;
     text-align: center;
+    padding: 10px 20px;
+    margin: 10px 0px;
+}
+.close{
+    float: right;
+    margin-top: -15px;
 }

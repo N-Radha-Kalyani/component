@@ -1,0 +1,10 @@
+
+<div>
+<form> 
+    Search : 
+    <!-- <input type="text" name="username" (input)="changesearchval($event)"> -->
+    <input type="text" [(ngModel)]="searchval" [ngModelOptions]="{standalone: true}">
+    <span>You searched for {{searchval}}</span>
+
+</form>
+</div>

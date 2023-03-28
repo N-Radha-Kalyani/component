@@ -1,0 +1,9 @@
+input[type=text]{
+text-align: center;
+padding: auto;
+margin-left: 20px;
+}
+div{
+    padding: 10px 20px;
+    margin: 20px 10px;
+}
